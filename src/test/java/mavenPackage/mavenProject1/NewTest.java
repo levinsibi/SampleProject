@@ -13,6 +13,7 @@ public class NewTest {
   public void f() {
 	  driver.get("https://www.google.com/");
 	  driver.manage().window().maximize();
+	  System.out.println("Title is "+driver.getTitle());
   }
   @BeforeTest
   public void beforeTest() {
