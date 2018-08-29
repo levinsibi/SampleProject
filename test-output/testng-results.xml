@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8493" started-at="2018-08-29T04:31:46Z" finished-at="2018-08-29T04:31:54Z">
+  <suite name="Default suite" duration-ms="9565" started-at="2018-08-29T05:53:17Z" finished-at="2018-08-29T05:53:27Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8493" started-at="2018-08-29T04:31:46Z" finished-at="2018-08-29T04:31:54Z">
+    <test name="Default test" duration-ms="9565" started-at="2018-08-29T05:53:17Z" finished-at="2018-08-29T05:53:27Z">
       <class name="mavenPackage.mavenProject1.NewTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenPackage.mavenProject1.NewTest@7fa833]" name="beforeTest" is-config="true" duration-ms="2873" started-at="2018-08-29T10:01:46Z" finished-at="2018-08-29T10:01:49Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenPackage.mavenProject1.NewTest@7fa833]" name="beforeTest" is-config="true" duration-ms="2870" started-at="2018-08-29T11:23:17Z" finished-at="2018-08-29T11:23:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="f()[pri:0, instance:mavenPackage.mavenProject1.NewTest@7fa833]" name="f" duration-ms="4229" started-at="2018-08-29T10:01:49Z" finished-at="2018-08-29T10:01:53Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:mavenPackage.mavenProject1.NewTest@7fa833]" name="f" duration-ms="5253" started-at="2018-08-29T11:23:20Z" finished-at="2018-08-29T11:23:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenPackage.mavenProject1.NewTest@7fa833]" name="afterTest" is-config="true" duration-ms="1374" started-at="2018-08-29T10:01:53Z" finished-at="2018-08-29T10:01:54Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenPackage.mavenProject1.NewTest@7fa833]" name="afterTest" is-config="true" duration-ms="1440" started-at="2018-08-29T11:23:25Z" finished-at="2018-08-29T11:23:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
