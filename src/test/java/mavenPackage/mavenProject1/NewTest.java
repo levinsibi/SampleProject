@@ -14,6 +14,7 @@ public class NewTest {
 	  driver.get("https://www.google.com/");
 	  driver.manage().window().maximize();
 	  System.out.println("Title is "+driver.getTitle());
+	  System.out.println("current url"+driver.getCurrentUrl());
   }
   @BeforeTest
   public void beforeTest() {
